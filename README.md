@@ -1,5 +1,4 @@
-<div align="center">
-  [![profile-picture](https://github.com/blsantinato/blsantinato/blob/main/images/profile1.jpeg)
+![<div align="center">](https://github.com/blsantinato/blsantinato/blob/main/images/profile1.jpeg)
 </div>
 
 ###
