@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://https://github.com/blsantinato/blsantinato/blob/main/images/profile1.jpeg"  />
+  [![profile-picture](https://github.com/blsantinato/blsantinato/blob/main/images/profile1.jpeg)
 </div>
 
 ###
