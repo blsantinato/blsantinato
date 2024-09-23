@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=blsantinato.blsantinato"  />
 </div>
 
 ###
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Bruno Santinato from Brazil, São Paulo<br><br>- 🔭 I’m working as SRE (Site Realibility Engineer) and SME in Linux and Unix Operational Systems.<br>- 📚 I'm currently learning Ansible, Cloud Platform and Python to improve my knowledge in actual scenario that Technology is envolved<br>- ⚡ In my free time I like to go to the beach and practice some sports in the water like surf, swimming and dive to relax and be more closer to my family.</p>
 
 ###
 
@@ -34,7 +34,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ansible/ansible-original-wordmark.svg" height="40" alt="ansible logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
